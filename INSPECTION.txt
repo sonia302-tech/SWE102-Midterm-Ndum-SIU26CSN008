@@ -1,0 +1,15 @@
+* adaaf2c (HEAD -> main, tag: v1.0, origin/main, origin/feature, feature) Add line 2
+* 02690d5 Initial commit
+commit adaaf2c0db860dad1c4a93d3d1f45c4f859f3d25
+Author: sonia302-tech <ndumchiasonia@gmail.com>
+Date:   Fri Nov 13 10:31:00 2026 +0100
+
+    Add line 2
+
+diff --git a/notes.txt b/notes.txt
+index 2931c9e..d064a5c 100644
+--- a/notes.txt
++++ b/notes.txt
+@@ -1 +1,2 @@
+  Line 1
++ Line 2
